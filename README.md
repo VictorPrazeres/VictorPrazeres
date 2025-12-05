@@ -81,6 +81,8 @@ Este GitHub é um reflexo da minha jornada, desde experimentos da faculdade de J
 
 <h2>🚀 &nbsp;Minhas Estatísticas do GitHub</h2>
 
+<h2 align="center">🚀 &nbsp;Minhas Estatísticas do GitHub</h2>
+
 <p align="center">
-  <img src="https://stats-victor.vercel.app/api?username=VictorPrazeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Victor Prazeres"/>
+  <img src="https://stats-victor.vercel.app/api?username=VictorPrazeres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Victor Prazeres"/>
 </p>
